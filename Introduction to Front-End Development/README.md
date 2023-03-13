@@ -1,4 +1,4 @@
-<h1>Introduction to Front-End Development Read-Me File</h1>
+<h1>Introduction to Front-End Development</h1>
 	<p>Thank you for checking out my Introduction to Front-End Development course repository on GitHub. This repository showcases the exercises and projects I completed during the course.</p>
 	<h2>Course Overview:</h2>
 	<p>The Introduction to Front-End Development course is designed for beginners who want to learn the fundamentals of web development. The course covers the basics of HTML, CSS, and modern UI frameworks such as Bootstrap and React. By the end of the course, learners will have a general understanding of the core and underlying technologies that power the internet and the day-to-day responsibilities of a front-end developer.</p>
